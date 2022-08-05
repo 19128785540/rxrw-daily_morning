@@ -35,8 +35,10 @@ def get_birthday():
   return (next - today).days
 
 def get_words():
-  words = requests.get("https://api.vvhan.com/api/love").text
-  return words
+  words = requests.get("https://api.vvhan.com/api/love")
+  if words.status_code != 200:
+    return get_words()
+  return words.text
 
 def get_random_color():
   return "#%06x" % random.randint(0, 0xFFFFFF)
