@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 使用问题或 Bug
+about: 如果不会用，或者觉得哪里有 Bug，可以通过此处提问
 title: ''
 labels: help wanted
 assignees: ''
