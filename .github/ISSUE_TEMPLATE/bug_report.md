@@ -1,0 +1,22 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: help wanted
+assignees: ''
+
+---
+
+提问前翻看一下有没有历史有人提过的问题！
+
+**描述一下存在的问题**
+请在此清楚明白地说明出现的问题，不要给我说 Exit code 1，把最后几行都复制粘贴过来。
+
+**如何产生的**
+你的变量如何设置，尤其是城市、两个日期的值和模板是什么样子的
+
+**截图**
+将你微信公众平台测试号的模板内容和 Github 的报错截图粘贴过来
+
+**其他说明**
+写在这里
