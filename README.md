@@ -53,8 +53,8 @@
 首先，按图搜索，测试号，进来之后微信扫码登录！
 ![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
 
-按图点击 Use this template，创建到自己的仓库下！
-![e6581c43572b00b12c1a82ca8d7178b](https://user-images.githubusercontent.com/9566402/183242340-2ef26c63-1ca1-420e-abd4-8672c25d61c9.png)
+按图点击 Fork，创建到自己的仓库下！
+<img width="1471" alt="image" src="https://user-images.githubusercontent.com/9566402/186087195-d1f2c124-1b59-4ea8-93dc-0b1e31a2e754.png">
 
 按下图，创建模板，设置变量，把微信公众平台上的各种字符串按说明创建到 GitHub -> Settings -> Secrets -> Actions 中。
 ![71bf9d11a876d23ef0f0728645a8ba0](https://user-images.githubusercontent.com/9566402/183242301-fd6ab30e-bfe5-4245-b2a9-f690184db307.png)
@@ -74,7 +74,7 @@
 
 Github 的右上角可以点击 star 给我点鼓励吧亲
 
-小红书上点点关注，点点赞，有什么好玩的东西可以at我，我来教你们做
+小红书/抖音上点点关注，点点赞，有什么好玩的东西可以at我，我来教你们做
 
 ps. 有一些注意事项在此补充
 
