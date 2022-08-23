@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 新功能请求
+about: 如果你想添加一些新功能，在这里
 title: ''
 labels: enhancement
 assignees: ''
