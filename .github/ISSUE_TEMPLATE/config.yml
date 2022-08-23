@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 问题讨论区
+    url: https://github.com/rxrw/daily_morning/discussions
+    about: 如果有交流问题，可以在此讨论
+  - name: 作者区
+    url: https://github.com/rxrw/daily_morning#readme
+    about: 请仔细阅读 README
