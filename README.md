@@ -7,8 +7,9 @@
 
 左边是闭源版（不是这套代码，要收费）的群，右边是开源版的群，请不要进错哦。
 <br>
-<img src="https://user-images.githubusercontent.com/9566402/186121787-cf45cb20-72b8-4c24-85a5-c7e38a1f243b.png" width="300px"/>（再次，寻求帮助的请不要进左边的群）
+<img src="https://user-images.githubusercontent.com/9566402/186121787-cf45cb20-72b8-4c24-85a5-c7e38a1f243b.png" width="300px"/>
 <img src="https://user-images.githubusercontent.com/9566402/186122308-e01bf412-e952-47bb-8d24-2c56f49e4a5f.png" width="300px"/>
+（再次，寻求帮助的请不要进左边的群）
 
 本项目没有停止更新哦～这里有[更新说明](./UPGRADE.md)
 
