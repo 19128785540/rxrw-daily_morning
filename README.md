@@ -11,9 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/9566402/186336485-bdf27f75-161f-4a1d-8de6-9af6972d142a.png" width="300px" />
 
-（再次，寻求帮助的请不要进左边的群）
-
-本项目没有停止更新哦～这里有[更新说明](./UPGRADE.md)
+这里有[更新说明](./UPGRADE.md)
 
 新项目链接：https://dm.iuv520.com
 
