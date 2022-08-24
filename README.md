@@ -1,6 +1,6 @@
-**从任何平台过来的朋友们请先阅读此内容哦！**
+**从任何平台过来的朋友们请先阅读此说明（除了下方的英文）！**
 
-** This is a project for someone who wants to send morning greeting to his/her girlfriend/boyfriend but without programming experience. It's just a simple python script taking advantage of Wechat Official Test Platform. It may be useless for people outside China. Please ignore this project if you are not using Wechat or you are a programmer. **
+**This is a project for someone who wants to send morning greeting to his/her girlfriend/boyfriend but without programming experience. It's just a simple python script taking advantage of Wechat Official Test Platform. It may be useless for people outside China. Please ignore this project if you are not using Wechat or you are a programmer.**
 
 # 每日早安推送给别人家的女朋友
 
