@@ -6,8 +6,9 @@ import requests
 import os
 import random
 
-today = datetime.utcnow() + timedelta(hours=8)  # 东八区
-today = datetime.strptime(str(today.date()), "%Y-%m-%d")
+nowtime = datetime.utcnow() + timedelta(hours=8)  # 东八区时间
+today = datetime.strptime(str(nowtime.date()), "%Y-%m-%d") #今天的日期
+
 start_date = os.getenv('START_DATE')
 city = os.getenv('CITY')
 birthday = os.getenv('BIRTHDAY')
@@ -55,8 +56,8 @@ def get_birthday_left():
   if birthday is None:
     print('没有设置 BIRTHDAY')
     return 0
-  next = datetime.strptime(str(date.today().year) + "-" + birthday, "%Y-%m-%d")
-  if next < datetime.now():
+  next = datetime.strptime(str(today.year) + "-" + birthday, "%Y-%m-%d")
+  if next < nowtime:
     next = next.replace(year=next.year + 1)
   return (next - today).days
 
