@@ -43,6 +43,12 @@ def get_weather():
   weather = res['data']['list'][0]
   return weather
 
+# 获取当前日期为星期几
+def get_week_day():
+  week_list = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
+  week_day = week_list[datetime.date(today).weekday()]
+  return week_day
+
 # 纪念日正数
 def get_memorial_days_count():
   if start_date is None:
@@ -95,8 +101,28 @@ data = {
     "value": today.strftime('%Y年%m月%d日'),
     "color": get_random_color()
   },
+  "week_day": {
+    "value": get_week_day(),
+    "color": get_random_color()
+  },
   "weather": {
     "value": weather['weather'],
+    "color": get_random_color()
+  },
+  "humidity": {
+    "value": weather['humidity'],
+    "color": get_random_color()
+  },
+  "wind": {
+    "value": weather['wind'],
+    "color": get_random_color()
+  },
+  "air_data": {
+    "value": weather['airData'],
+    "color": get_random_color()
+  },
+  "air_quality": {
+    "value": weather['airQuality'],
     "color": get_random_color()
   },
   "temperature": {
