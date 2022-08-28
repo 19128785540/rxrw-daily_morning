@@ -2,22 +2,22 @@
 
 ## 2022.08.28
 
-1.增加星期几字段
-2.增加湿度、风向级、空气指数、空气质量字段
+1. 增加星期几字段
+2. 增加湿度、风向级、空气指数、空气质量字段
 
 示例模板：
 
-今天是 {{ date.DATA }} {{week_day.DATA}}
+今天是 {{ date.DATA }} {{ week_day.DATA }}
 
-今天天气：{{weather.DATA }}
+今天天气：{{ weather.DATA }}
 
-湿度：{{humidity.DATA}}
+湿度：{{ humidity.DATA }}
 
-风向风力：{{wind.DATA}}
+风向风力：{{ wind.DATA }}
 
-空气指数：{{air_data.DATA}}
+空气指数：{{ air_data.DATA }}
 
-空气质量：{{air_quality.DATA}}
+空气质量：{{ air_quality.DATA }}
 
 当前温度：{{ temperature.DATA }}
 
