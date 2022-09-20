@@ -7,7 +7,7 @@ on:
 jobs:
   send_message:
     runs-on: ubuntu-latest
-    name: send morning to your girlfriend
+    name: send morning to my girlfriend
 
     steps:
     - name: checkout
