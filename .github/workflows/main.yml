@@ -1,7 +1,7 @@
 name: rxrw-daily_morning
 on:
   schedule:
-  - cron:  '1 * * * *'
+  - cron:  '5 * * * *'
   workflow_dispatch:
 
 jobs:
