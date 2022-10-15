@@ -1,4 +1,4 @@
-name: morning
+name: rxrw-daily_morning
 on:
   schedule:
   - cron:  '1 * * * *'
